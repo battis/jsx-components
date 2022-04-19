@@ -1,6 +1,8 @@
+/.nova/
 /node_modules/
-
+/src/
 /tests/
-*.test.*
-*.unit.*
-*.fixture.*
+/index.*
+jest.*
+tsconfig.*
+webpack.*
